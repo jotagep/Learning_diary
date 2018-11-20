@@ -79,7 +79,7 @@ That's a simple way to keep track, organise, and share my learning with someone 
 [Master JavaScript ES6]: https://www.udemy.com/the-complete-javascript-course/
 [Advanced CSS & Sass]: https://www.udemy.com/advanced-css-and-sass/
 [Eloquent JavaScript]: http://eloquentjavascript.net/
-[JS Design Pattern]: https://addyosmani.com/resources/essentialjsdesignpatterns/book/#patternity
+[JS Design Patterns]: https://addyosmani.com/resources/essentialjsdesignpatterns/book/#patternity
 [Node: Server Side JS]: https://learnnode.com/
 [React & Redux]: https://www.udemy.com/react-the-complete-guide-incl-redux/
 [Learn Vue]: https://www.vuemastery.com/
