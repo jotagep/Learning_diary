@@ -12,29 +12,29 @@ That's a simple way to keep track, organise, and share my learning with someone 
 
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Confident | 5<br>Awesome |
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|
-|**HTML5**                         | ![star][star]     | ![star][star] | ![star][star] | ![star][star]    |                |                 
+|**HTML5**                         | ![star][star]     | ![star][star] | ![star][star] | ![star][star]    |  ![star][star]              |                 
 |**CSS3**                          | ![star][star]     | ![star][star] | ![star][star] | ![star][star]    |                |                 
-|**JavaScript**                    | ![star][star]     | ![star][star] | ![star][star] |                  |                |                 
-|**ES6**                           | ![star][star]     | ![star][star] | ![star][star] |                  |                |                 
+|**JavaScript**                    | ![star][star]     | ![star][star] | ![star][star] |  ![star][star]   |                |                 
+|**ES6**                           | ![star][star]     | ![star][star] | ![star][star] | ![star][star]  |                |                 
 |**Mobile first**                  | ![star][star]     | ![star][star] | ![star][star] | ![star][star]    |                |                 
 |**Responsive design**             | ![star][star]     | ![star][star] | ![star][star] | ![star][star]    |                |                 
-|**Bootstrap/Materialize**         | ![star][star]     | ![star][star] | ![star][star] |                  |                |                 
+|**Bootstrap/Materialize**         | ![star][star]     | ![star][star] | ![star][star] | ![star][star]    |                |                 
 |**Css Grid & Flex-box**           | ![star][star]     | ![star][star] | ![star][star] |                  |                |                 
 |**Angular**                       | ![star][star]     | ![star][star] | ![star][star] |                  |                |
-|**React**                         | ![star][star]     | ![star][star] |               |                  |                |                 
-|**Vue**                           | ![star][star]     |               |               |                  |                |                 
-|**GitHub**                        | ![star][star]     | ![star][star] | ![star][star] |                  |                |                 
+|**React**                         | ![star][star]     | ![star][star] |  ![star][star]  |  ![star][star]  |                |                 
+|**Vue**                           | ![star][star]     | ![star][star] |               |                  |                |                 
+|**GitHub**                        | ![star][star]     | ![star][star] | ![star][star] |   ![star][star]  |                |                 
 |**Git/Git bash**                  | ![star][star]     | ![star][star] | ![star][star] |                  |                |                 
 |**PWA**                           | ![star][star]     | ![star][star] |               |                  |                |                 
 |**MongoDB**                       | ![star][star]     | ![star][star] | ![star][star] |                  |                |                 
-|**jQuery**                        | ![star][star]     | ![star][star] |               |                  |                |                 
+|**jQuery**                        | ![star][star]     | ![star][star] | ![star][star] |                  |                |                 
 |**Publishing website**            | ![star][star]     | ![star][star] | ![star][star] |                  |                |                 
 |**Command line**                  | ![star][star]     | ![star][star] | ![star][star] |                  |                |                 
-|**Markdown**                      | ![star][star]     | ![star][star] | ![star][star] |                  |                |                 
+|**Markdown**                      | ![star][star]     | ![star][star] | ![star][star] | ![star][star]    |                |                 
 |**Node**                          | ![star][star]     | ![star][star] |               |                  |                |                 
 |**Webpack/ Bundlers**             | ![star][star]     | ![star][star] |               |                  |                |                   
 |**Task runners Gulp/Grunt**       | ![star][star]     | ![star][star] |               |                  |                |                   
-|**Redux**                         | ![star][star]     |               |               |                  |                |                                            
+|**Redux**                         | ![star][star]     | ![star][star] | ![star][star] |                  |                |                                            
 
 ----
 
@@ -48,6 +48,9 @@ That's a simple way to keep track, organise, and share my learning with someone 
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![Completed][Completed]     | Sept 2019         | [Node: Server Side JS]                                          | [Wes Bos]                                   |
+| ![Completed][Completed]     | May 2019         | [React & Redux]                                                 | [Maximilian Schwarzmüller]                  |
+| ![Completed][Completed]     | Mar 2019         | Read [Eloquent JavaScript]                                      | [Marijn Haverbeke]                          |
 | ![Completed][Completed]     | Aug 2018 | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
 | ![Completed][Completed]     | Jul 2018 | [MongoDB for node developers]                                   | [MongoDB]                                   |
 | ![Completed][Completed]     | 2017     | [Master JavaScript ES6]                                         | [Jonas Schedmedtman]                        |
@@ -59,9 +62,6 @@ That's a simple way to keep track, organise, and share my learning with someone 
 | ![Completed][Completed]     | 2016     | [Flexbox]                                                       | [Wes Bos]                                   |
 | ![Completed][Completed]     | 2016     | Read [You Don't know JavaScript]                                | Kyle Simpson                                |
 | ![Completed][Completed]     | 2015     | Responsive Design                                               | CodeSchool                                  |
-| ![In Progress][In Progress] |          | Read [Eloquent JavaScript]                                      | [Marijn Haverbeke]                          |
-| ![In Progress][In Progress] |          | [React & Redux]                                                 | [Maximilian Schwarzmüller]                  |
-| ![In Progress][In Progress] |          | [Node: Server Side JS]                                          | [Wes Bos]                                   |
 | ![Soon][Soon]               |          | Read [JS Design Patterns]                                       | Addi Osmani                                 |
 | ![Soon][Soon]               |          | [Learn Vue]                                                     | Gregg Polack                                |
 
@@ -123,11 +123,10 @@ That's a simple way to keep track, organise, and share my learning with someone 
 
 I'm currently interested in/excited about:
 
-+ React
++ Flutter
++ GraphQL
++ Apollo Client, Server
 + Vue
-+ State Management (Redux, Ngx)
-+ Server side rendering (Angular universal, Next)
-+ Flutter, React Native, Ionic
 
 ----
 
